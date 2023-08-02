@@ -20,23 +20,19 @@
 
 <p align="left"> <a href="https://twitter.com/kausain.ahmed786" target="blank"><img src="https://img.shields.io/twitter/follow/kausain.ahmed786?logo=twitter&style=for-the-badge" alt="kausain.ahmed786" /></a> </p>
 
-- 🔭 I’m currently working on java **Web Development**
+- 🔭 I’m currently working on **java Web Development**
 
-- 🌱 I’m currently learning something **Spring Security**
+- 🌱 I’m currently learning  **Spring Security**
 
-- 👯 I’m looking to collaborate on something **Full stack web development**
+- 👯 I’m looking to collaborate on **Full stack web development**
 
 - 🤝 I’m looking for help with something **JavaScript and Angular**
 
 - 👨‍💻 All of my projects are available at something [https://github.com/KausainAhmed](https://github.com/KausainAhmed)
 
-- 📝 I regularly write articles on [https://sites.google.com/view/kausain-ahmed/home](https://sites.google.com/view/kausain-ahmed/home)
+- 💬 Ask me about **core java and j2ee**
 
-- 💬 Ask me about something **about core java and j2ee**
-
-- 📫 How to reach me something **https://wa.me/7087959715**
-
-- 📄 Know about my experiences [https://github.io/KausainAhmed/Portfolio/](https://github.io/KausainAhmed/Portfolio/)
+- 📫 Reach Me At 😉👉👉  **https://wa.me/7087959715**
 
 - ⚡ Fun fact **I'm good at gOOgling!!**
 
