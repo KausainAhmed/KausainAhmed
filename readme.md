@@ -15,7 +15,7 @@
 <a href="https://www.hackerrank.com/kausainahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kausainahmed" height="30" width="40" /></a>
 </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kausainahmed&label=Profile%20views&color=0e75b6&style=flat" alt="kausainahmed" /> </p>
-<br><br> <br><br> <br><br>
+<br><br> <br><br> 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kausainahmed" alt="kausainahmed" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kausain.ahmed786" target="blank"><img src="https://img.shields.io/twitter/follow/kausain.ahmed786?logo=twitter&style=for-the-badge" alt="kausain.ahmed786" /></a> </p>
