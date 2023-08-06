@@ -26,11 +26,11 @@
 
 - 👯 I’m looking to collaborate on **Full stack web development**
 
-- 🤝 I’m looking for help with something **JavaScript and Angular**
+- 🤝 I’m looking for help with **JavaScript and Angular**
 
-- 👨‍💻 All of my projects are available at something [https://github.com/KausainAhmed](https://github.com/KausainAhmed)
+- 👨‍💻 All of my projects are available at  [https://github.com/KausainAhmed](https://github.com/KausainAhmed)
 
-- 💬 Ask me about **core java and j2ee**
+- 💬 Ask me about **core java, j2ee, jsp-servlet, spring , MVC, OOPS**
 
 - 📫 Reach Me At 😉👉👉  **https://wa.me/7087959715**
 
