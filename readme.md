@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning **Spring Security and Angular**
 - 💬 Ask me about **core java, j2ee , jsp-servlet, spring MVC and Spring Boot**
 - 📫 How to reach me : ****https://wa.link/73oz5w****
-- 👨‍💻 Ny Portfolio **https://kausainahmed.github.io/My-Portfolio/**
+- 👨‍💻 My Portfolio **https://kausainahmed.github.io/My-Portfolio/**
 - ⚡ Fun fact **I'm good at gOOgling**
 
 <div> <a href="https://twitter.com/kausainahmed786" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
